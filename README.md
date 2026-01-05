@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Смотреть видео про путь](https://i.vimeocdn.com/video/1318702235-640.jpg)](https://vimeo.com/1151584990)
+
 <!--
 **nssanta/nssanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
